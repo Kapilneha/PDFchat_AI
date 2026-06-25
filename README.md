@@ -1,4 +1,3 @@
-# LIVE DEMO :  https://kapilneha.github.io/PDFchat_AI/
 
 # 💬 PDFChat AI
 
