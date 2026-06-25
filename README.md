@@ -14,7 +14,6 @@ Upload any PDF and ask questions in natural language. The AI answers strictly fr
 - **PDF Reading:** PyPDF2
 - **Language:** Python 3.11
 
-## 🏗️ Architecture|
 
 ## 🚀 How to Run
 
@@ -52,5 +51,4 @@ streamlit run app.py
 ## 🔑 Get Free API Key
 Get your free Groq API key at: https://console.groq.com
 =======
-# PDFchat_AI
->>>>>>> a497b486d2a3e064a2ab944635d99cc5b3fbd672
+
